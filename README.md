@@ -3,21 +3,21 @@ Planarity testing using region/faces algorithm complaxity O(n^4)
 
 
 
-DOKUMENTATION
+## DOKUMENTATION
 
-Prirodno-matematički fakultet Sarajevo
+## Prirodno-matematički fakultet Sarajevo
 
-Zmaja od Bosne 33-35,
+#### Zmaja od Bosne 33-35,
 
-Profesor: Esmir Pilav,
+#### Profesor: Esmir Pilav,
 
-Asistent: Admir Beširević,
+#### Asistent: Admir Beširević,
 
-71 000 Sarajevo, Bosna i Hercegovina,
+#### 71 000 Sarajevo, Bosna i Hercegovina,
 
-Tel.: +387 (0)33 954 700, 294 700;
+#### Tel.: +387 (0)33 954 700, 294 700;
 
-[pmf@pmf.unsa.ba](mailto:pmf@pmf.unsa.ba)
+#### [pmf@pmf.unsa.ba](mailto:pmf@pmf.unsa.ba)
 
   
   
@@ -47,49 +47,6 @@ Planarno testiranje
   
   
   
-  
-
-[UVOD  2](https://docs.google.com/document/d/1Bf_iWQll3GYC0bO9TtZyrDVLajd_NlxULGWBC8Qm2NI/edit#heading=h.gboqnw2bpibs)
-
-[Općenito  2](https://docs.google.com/document/d/1Bf_iWQll3GYC0bO9TtZyrDVLajd_NlxULGWBC8Qm2NI/edit#heading=h.uhne1lcoyfkq)
-
-[Teoreme iz grafova  3](https://docs.google.com/document/d/1Bf_iWQll3GYC0bO9TtZyrDVLajd_NlxULGWBC8Qm2NI/edit#heading=h.d06jd1jtc19)
-
-[Funkcije korištene za implementaciju  4](https://docs.google.com/document/d/1Bf_iWQll3GYC0bO9TtZyrDVLajd_NlxULGWBC8Qm2NI/edit#heading=h.rblvmqu17aiu)
-
-[1. isCyclic  4](https://docs.google.com/document/d/1Bf_iWQll3GYC0bO9TtZyrDVLajd_NlxULGWBC8Qm2NI/edit#heading=h.l67mj5knti92)
-
-[2. DFSPut  5](https://docs.google.com/document/d/1Bf_iWQll3GYC0bO9TtZyrDVLajd_NlxULGWBC8Qm2NI/edit#heading=h.n906x9nct8fv)
-
-[3. PutIzmedjuDvaDodana  6](https://docs.google.com/document/d/1Bf_iWQll3GYC0bO9TtZyrDVLajd_NlxULGWBC8Qm2NI/edit#heading=h.6r40f9lgd8l7)
-
-[4. PutIzmedjuDvaKojaNisuDodana  7](https://docs.google.com/document/d/1Bf_iWQll3GYC0bO9TtZyrDVLajd_NlxULGWBC8Qm2NI/edit#heading=h.rjql5gb8rqt)
-
-[5. ModifikujPostojeciPut  8](https://docs.google.com/document/d/1Bf_iWQll3GYC0bO9TtZyrDVLajd_NlxULGWBC8Qm2NI/edit#heading=h.49ghvsbn5q97)
-
-[6. BrojZajednickihRegija  8](https://docs.google.com/document/d/1Bf_iWQll3GYC0bO9TtZyrDVLajd_NlxULGWBC8Qm2NI/edit#heading=h.26h78wbjzy0t)
-
-[7. ModifikujDodaneGrane  9](https://docs.google.com/document/d/1Bf_iWQll3GYC0bO9TtZyrDVLajd_NlxULGWBC8Qm2NI/edit#heading=h.1xi8bhs3nrt0)
-
-[8. DaLiCvorImaObjeRegije  9](https://docs.google.com/document/d/1Bf_iWQll3GYC0bO9TtZyrDVLajd_NlxULGWBC8Qm2NI/edit#heading=h.bmukd18hoeg8)
-
-[9. ModifikujRegije  10](https://docs.google.com/document/d/1Bf_iWQll3GYC0bO9TtZyrDVLajd_NlxULGWBC8Qm2NI/edit#heading=h.l6qwztemxh5y)
-
-[10. PostaviNizove  11](https://docs.google.com/document/d/1Bf_iWQll3GYC0bO9TtZyrDVLajd_NlxULGWBC8Qm2NI/edit#heading=h.767x8g9rboe9)
-
-[11. TestPlanarnosti  12](https://docs.google.com/document/d/1Bf_iWQll3GYC0bO9TtZyrDVLajd_NlxULGWBC8Qm2NI/edit#heading=h.36rutiikctx)
-
-[Analiza kompleksnosti  15](https://docs.google.com/document/d/1Bf_iWQll3GYC0bO9TtZyrDVLajd_NlxULGWBC8Qm2NI/edit#heading=h.ol3ilse7itm8)
-
-  
-  
-  
-  
-  
-  
-  
-  
-
 # UVOD
 
 ## Općenito
